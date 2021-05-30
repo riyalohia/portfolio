@@ -11,7 +11,8 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "animejs": "^3.2.1",
@@ -44,6 +45,7 @@
     "@babel/core": "^7.14.3",
     "@babel/preset-react": "^7.13.13",
     "babel-preset-gatsby": "^1.4.0",
-    "gatsby-remark-code-titles": "^1.1.0"
+    "gatsby-remark-code-titles": "^1.1.0",
+    "gh-pages": "^3.2.0"
   }
 }

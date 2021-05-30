@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <p>
       I am a Software Engineer currently working at healthcare technology company
-      Innovaccer Analytics. I am dedicated to deliver seamless user experiences along with architecting
-      the resilient web applications.
+      Innovaccer Analytics. I have experience in building web applications with
+      JavaScript / Reactjs / ExpressJS and some other cool libraries and frameworks.
     </p>
   );
   const five = (
