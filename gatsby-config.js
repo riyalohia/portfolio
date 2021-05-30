@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/portfolio",
   siteMetadata: {
     title: 'Riya Lohia',
     description:
@@ -12,7 +13,7 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-robots-txt`,
+    // `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
