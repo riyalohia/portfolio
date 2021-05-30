@@ -161,7 +161,7 @@ const About = () => {
             </p>
             <p>
               Being an Open Source Enthusiast, I have also contributed to
-              <a href="https://github.com/sugarlabs/musicblocks">Music Blocks</a>. Here are a few
+              <a href="https://github.com/sugarlabs/musicblocks"> Music Blocks</a>. Here are a few
               technologies I've been working with:
             </p>
           </div>
