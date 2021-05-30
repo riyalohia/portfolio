@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Riya Lohia',
     description:
-      'Riya Lohia is a software engineer who specializes in building exceptional digital experiences.',
+      'A passionate software engineer having experience in building web applications with JavaScript / Reactjs / ExpessJS and some other cool libraries and frameworks.',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
