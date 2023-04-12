@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Medicare System'
 cover: './demo.png'
 github: 'https://github.com/riyalohia/Medicare-System'
