@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: "Going Beyond Equal Temperament in Music Blocks (GSoC'18)"
 cover: './gsoc.png'
 github: 'https://github.com/sugarlabs/musicblocks/commits?author=riyalohia'

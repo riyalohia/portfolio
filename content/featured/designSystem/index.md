@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Masala Design System (Innovaccer)'
 cover: './ds.png'
 github: 'https://github.com/innovaccer/design-system'

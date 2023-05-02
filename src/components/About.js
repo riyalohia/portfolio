@@ -130,12 +130,13 @@ const About = () => {
   }, []);
 
   const skillsSet = {
-    Web: ['HTML', 'CSS', 'JavaScript'],
-    Libraries: ['React', 'Redux'],
+    Web: ['HTML', 'CSS', 'JavaScript', 'Web Workers', 'Web Sockets'],
+    Libraries: ['React', 'Redux', 'SWR', 'Zustand'],
     Testing: ['Jest', 'React Testing Library', 'Enzyme'],
-    Frameworks: ['Express'],
+    Frameworks: ['Express', 'Next JS'],
     'Version Control': ['Git'],
-    Others: ['TypeScript', 'Node', 'Storybook', 'MongoDB'],
+    Performance: ['Lighthouse', 'Sentry'],
+    Others: ['TypeScript', 'Node', 'Storybook', 'MongoDB', 'SlateJS', 'Chat GPT'],
   };
 
   const skills = Object.keys(skillsSet);
@@ -154,9 +155,9 @@ const About = () => {
             </p>
 
             <p>
-              Shortly after graduating from the <a href="https://www.lnmiit.ac.in/">LNMIIT</a>{' '}
-              Jaipur, I joined the product engineering team at{' '}
-              <a href="https://innovaccer.com/">Innovaccer Analytics</a> where I work on a wide
+              I have about 3 years of experience in Frontend development in various tech companies.
+              I am currently a Software Engineer at{' '}
+              <a href="https://unacademy.com/">Unacademy</a> where I work on a wide
               variety of interesting and meaningful projects on a daily basis.
             </p>
             <p>

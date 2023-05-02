@@ -3,7 +3,7 @@ date: '2020-02-01'
 title: 'Software Development Engineer'
 company: 'Innovaccer'
 location: 'Noida, India'
-range: 'Feb 2020 - Present'
+range: 'Feb 2020 - Sep 2021'
 technologies:
   - React
   - Node
