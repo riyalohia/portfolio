@@ -20,8 +20,8 @@ internWork:
    and used Jest for unit testing.
 ---
 
-- Creating, maintaining and testing end to end open source components library for Innovaccer. It comprises
+- Created, maintained and tested end to end open source components library for Innovaccer. It comprises
   of components ranging from atoms (e.g Avatar, Button, Input, Dropdown) to molecules (Overlays, Dropzone) and complex organisms (Grid, DatePicker).
-- Developing Contact Center app which helps clients in improving member engagement and actively involved in cross team
-  communication with designers, product owners, other developers to take the product forward.
+- Developed Contact Center app which helps clients in improving member engagement and was actively involved in cross team
+  communication with designers, product owners and other developers to take the product forward.
 - Built a rich text editor on top of facebook's DraftJS and ReactJS.
