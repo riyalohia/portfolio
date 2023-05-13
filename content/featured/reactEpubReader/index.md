@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-An npm package for react reader powered by EpubJS. Developers can add search, highlight and custom theme.
+An npm package for react reader powered by EpubJS. Developers can add search, highlight and custom themes.
