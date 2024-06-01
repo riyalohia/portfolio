@@ -131,12 +131,12 @@ const About = () => {
 
   const skillsSet = {
     Web: ['HTML', 'CSS', 'JavaScript', 'Web Workers', 'Web Sockets'],
-    Libraries: ['React', 'Redux', 'SWR', 'Zustand'],
+    Libraries: ['React', 'Redux', 'SWR', 'Zustand', 'Jotai'],
     Testing: ['Jest', 'React Testing Library', 'Enzyme'],
     Frameworks: ['Express', 'Next JS'],
     'Version Control': ['Git'],
     Performance: ['Lighthouse', 'Sentry'],
-    Others: ['TypeScript', 'Node', 'Storybook', 'MongoDB', 'SlateJS', 'Chat GPT'],
+    Others: ['TypeScript', 'Node', 'Storybook', 'GraphQL', 'MongoDB', 'SlateJS', 'Chat GPT'],
   };
 
   const skills = Object.keys(skillsSet);

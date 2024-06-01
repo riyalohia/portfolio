@@ -3,7 +3,7 @@ date: '2020-09-24'
 title: 'Cohesive by Unacademy'
 company: 'Unacademy'
 location: 'Bangalore, India'
-range: 'Apr 2023 - Present'
+range: 'Apr 2023 - July 2023'
 technologies:
   - React
   - Node
