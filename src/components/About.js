@@ -155,9 +155,9 @@ const About = () => {
             </p>
 
             <p>
-              I have about 3 years of experience in Frontend development in various tech companies.
+              I have about 4 years of experience in Frontend development in various tech companies.
               I am currently a Software Engineer at{' '}
-              <a href="https://unacademy.com/">Unacademy</a> where I work on a wide
+              <a href="https://subskribe.com/">Subskribe</a> where I work on a wide
               variety of interesting and meaningful projects on a daily basis.
             </p>
             <p>

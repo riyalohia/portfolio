@@ -63,9 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I am a Software Engineer currently working at educational technology company
-      Unacademy. I have experience in building web applications with
-      JavaScript / Reactjs / ExpressJS and some other cool libraries and frameworks.
+      I am a Software Engineer currently working at revenue and subscription based company
+      Subskribe. I have experience in building web applications with
+      JavaScript / Reactjs / NextJS / ExpressJS and some other cool libraries and frameworks.
     </p>
   );
   const five = (
